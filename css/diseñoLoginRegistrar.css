@@ -1,0 +1,59 @@
+body{
+ background-image: url(../imagenes/fondoLoginRegistrar.jpg);
+ width: 100%;
+}
+
+.boton_personalizado{
+    padding: 8px;
+    font-weight: 300;
+    color: #ffffff;
+    background-color: #CD6804;
+    border-radius: 3px;
+    border-color: #CD6804;
+    border: 1px solid #4F3316;
+    margin: 15px 5px 5px 10px ;
+      
+  }
+  .boton_personalizado:hover{
+   background-color: #E8AA6B;
+  }
+  
+  .botonback:hover{
+   background-color: #4F3316;
+  }
+  
+  .card{
+  width: 70%; 
+  margin: 0px 15% 0px 15%;
+  border-color:#4F3316;
+  }
+  .card-header{
+  background-color:#FFF; 
+  border-color:#4F3316;
+  }
+
+.lore{
+  margin-left: 30px;
+  margin-right: 30px;
+ 
+
+}
+.encabezadocardregistro{
+  background-color: #FFFFFF;
+  border-color:#4F3316;
+
+ 
+}
+.botonback{
+  background-color: #4F3316;
+  border-radius:10px;
+   margin-left: 20px
+}
+.botonback:hover{
+   background-color: #4F3316;
+  }
+.bottonRegistroLogin{
+  background-color: #CD6804 ;
+  border-radius:10px;
+}
+

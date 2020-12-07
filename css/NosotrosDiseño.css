@@ -1,0 +1,125 @@
+body{
+	
+	background-color: #FCF3CF;
+}
+.encabezado{
+	background-color:#4F3316; 
+	width: 100%; 
+	height: 120px;
+}
+.img{
+	float: center;
+	
+}
+.botonback{
+	background-color: #4F3316;
+	border-radius:10px;
+	 margin-left: 20px
+}
+.barraNavegacion{
+	width:100%;
+}
+.cardLogin{
+	width: 60%; 
+	margin: 20px 20% 0px 20%;
+}
+.encabezadocardlogin{
+	background-color: #FFFFFF;
+}
+.navegacion{
+	width: 30%; 
+	margin: 0px 35% 0px 35%;
+}
+.titulocardlogin{
+	color: #CD6804;
+}
+.botonguardarlogin{
+	margin-left: 60px;
+	background-color: #CD6804 ;
+	border-radius:10px;
+}
+.menu {
+  
+  padding: 0px 170px  0px  170px;
+}
+
+.menu li{
+  padding: 0px 20px  0px  20px;
+}
+
+.menu:hover{
+ text-shadow: ;
+}
+.titulo{
+	font-family:verdana;
+}
+.panel{
+	  padding-top: 40px;
+
+}
+.nosotros{
+	font-family: Comic Sans MS;
+}
+.mision{
+	background-color:#FCF3CF; 
+	width: 40%; 
+	height: 220px;
+	border: #4F3316 2px dashed;
+	margin-left: 90px;
+	text-align: center;
+	margin-top: -720px;
+
+}
+.vision{
+	background-color:#FCF3CF; 
+	width: 40%; 
+	height: 230px;
+	border: #4F3316 2px dashed;
+	margin-left: 160px;
+	margin-top: 10px;
+}
+.contenedor2{
+	width: 30%;
+	margin-left: 60%;
+	float: center;
+	
+	margin-top: 30px;
+	
+}
+.imagen{
+	width: 80%;
+	margin-left: 20px;
+	margin-left: auto;
+	display: block;
+	padding-top: 90px;
+	border-style: solid;
+	padding: 20px;
+	
+}
+.imagen1{
+	width: 23%;
+	height: 36%;
+	margin-left: -30px;
+	border-style: solid;
+	padding: 20px;
+	margin-top: 5px;
+}
+.imagen2{
+	width: 23%;
+	height: 36%;
+	margin-left: -700px;
+	border-style: solid;
+	padding: 20px;
+	margin-top: -285px;
+}
+.pie{
+
+	background-color:#4F3316;
+}
+
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}

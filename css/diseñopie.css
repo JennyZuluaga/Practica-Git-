@@ -1,0 +1,21 @@
+.pie{
+
+	background-color:#4F3316;
+}
+
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.cuerpo {
+  min-height: calc(100% - 4rem);
+}
+.footer {
+  height: 4rem;
+  position: fixed;
+  bottom: 0;
+  height: 20%;
+        
+}	
